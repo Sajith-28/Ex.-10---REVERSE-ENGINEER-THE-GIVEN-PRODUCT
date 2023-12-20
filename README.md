@@ -83,7 +83,7 @@ Step 10.:- After generate the gcode format then follow the these instruction
 ●	Open the file from the USB storage and select the Print option.
 
 
-### Name:HASNA MUBARAK AZEEM
+### Name:SAJITH AHAMED F
 ### Register Number:23000083
 
 ## RESULT:
